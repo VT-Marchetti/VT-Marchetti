@@ -1,5 +1,18 @@
 <!-- GitHub Profile README -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/SEU_ID" width="150" style="border-radius: 50%;" />
+</p>
 
+<h3 align="center">Seu Nome</h3>
+<p align="center">
+  Estudante • Desenvolvedor • Criador de Projetos
+</p>
+
+<p align="center">
+  <a href="https://github.com/seu-usuario">GitHub</a> •
+  <a href="https://linkedin.com/in/seu-link">LinkedIn</a> •
+  <a href="mailto:seu@email.com">Email</a>
+</p>
 <h1 align="center">Oi 👋, eu sou SEU NOME</h1>
 <h3 align="center">Estudante | Desenvolvedor | Criador de Projetos</h3>
 
