@@ -3,15 +3,15 @@
 
 <h1 align="center">Eae, me chamo Marchetti 👋</h1>
 <h3 align="center">Estudante | Desenvolvedor | Animador</h3>
----
+
+
 ## ☺️ Sobre mim
 Tenho 17 anos e sou um estudante da Escola Profissional de Aveiro do curso de gestão e progrmação de sistemas informáticos (GPSI).
 Também gosto bastante de fazer artes e animações
----
+
 - 🎓 Estudante do ensino secundário, focado em **gestão e programação de sistemas informáticos**  
 - 🎨 Também curto **design gráfico** e **edição de vídeo**  
 - 🚀 Sempre tentando evoluir um pouco a cada projeto e desafio
----
 
 🛠️ Tecnologias & Ferramentas
 <p>
@@ -22,15 +22,14 @@ Também gosto bastante de fazer artes e animações
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
 </p>
 📌 Projetos em Destaque
----
+
 - 🔹 **teste de Animação** – Uso de todos os conhecimentos sobre animação para aprender ainda mais e aperfeiçoar técnicas 
 - 🔹 **Animação com os amigos** – depois de aprendizados e aperfeiçoamento. um pequeno projeto de animação com os meus amigos de sala
 - 🔹 **Elegrow** – Jogo sobre uma plantação
----
 
 🌐 Onde me encontrar
 - 💼 GitHub:   
 - 💬 Discord: vt_marchetti 
 - 📫 Email: davilainemarchetti08@gmail.com
----
+
 <p align="center">⭐ Se curtir algum projeto, não esquece de deixar uma estrela!</p>
