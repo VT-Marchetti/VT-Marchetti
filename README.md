@@ -8,7 +8,7 @@
 ## 🎨 artes
 
 <p align="center">
-  <img src="" width="600" />
+  <img src="assets/Manu and Plush.jpg" width="600" />
 </p>
 
 ## ☺️ Sobre mim
