@@ -5,6 +5,7 @@
 <h3 align="center">Estudante | Desenvolvedor | Animador</h3>
 
 
+## 🎨 artes
 
 ## ☺️ Sobre mim
 Tenho 17 anos e sou um estudante da Escola Profissional de Aveiro do curso de gestão e progrmação de sistemas informáticos (GPSI).
