@@ -13,7 +13,7 @@ Também gosto bastante de fazer artes e animações
 - 🎨 Também curto **design gráfico** e **edição de vídeo**  
 - 🚀 Sempre tentando evoluir um pouco a cada projeto e desafio
 
-🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
@@ -21,13 +21,13 @@ Também gosto bastante de fazer artes e animações
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
 </p>
-📌 Projetos em Destaque
+## 📌 Projetos em Destaque
 
 - 🔹 **teste de Animação** – Uso de todos os conhecimentos sobre animação para aprender ainda mais e aperfeiçoar técnicas 
 - 🔹 **Animação com os amigos** – depois de aprendizados e aperfeiçoamento. um pequeno projeto de animação com os meus amigos de sala
 - 🔹 **Elegrow** – Jogo sobre uma plantação
 
-🌐 Onde me encontrar
+## 🌐 Onde me encontrar
 - 💼 GitHub:   
 - 💬 Discord: vt_marchetti 
 - 📫 Email: davilainemarchetti08@gmail.com
