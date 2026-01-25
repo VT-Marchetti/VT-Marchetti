@@ -6,9 +6,6 @@
 
 
 <p align="center">
-<a href="https://github.com/seu-usuario">
-<img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</a>
 </p>
 
 ---
