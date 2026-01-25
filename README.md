@@ -1,10 +1,23 @@
 <!-- GitHub Profile README -->
-## 🧠 Sobre mim
 
-- 🎓 Estudante do ensino médio, focado em **programação e tecnologia**  
-- 💻 Gosto de construir projetos práticos e bem organizados  
-- 🎨 Também curto **design gráfico** e edição de vídeo  
-- 🚀 Sempre tentando evoluir um pouco a cada projeto
+
+<h1 align="center">Oi 👋, eu sou Marchetti</h1>
+<h3 align="center">Estudante | Desenvolvedor | Animador</h3>
+
+
+<p align="center">
+<a href="https://github.com/seu-usuario">
+<img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</a>
+</p>
+
+---
+
+## ☺️ Sobre mim
+
+- 🎓 Estudante do ensino secundário, focado em **gestão e programação de sistemas informáticos**  
+- 🎨 Também curto **design gráfico** e **edição de vídeo**  
+- 🚀 Sempre tentando evoluir um pouco a cada projeto e desafio
 
 ---
 
@@ -22,9 +35,9 @@
 
 ## 📌 Projetos em Destaque
 
-- 🔹 **Nome do Projeto 1** – breve descrição do que ele faz  
-- 🔹 **Nome do Projeto 2** – foco no aprendizado ou tecnologia usada  
-- 🔹 **Nome do Projeto 3** – algo legal ou diferente
+- 🔹 **teste de Animação** – Uso de todos os conhecimentos sobre animação para aprender ainda mais e aperfeiçoar técnicas 
+- 🔹 **Animação com os amigos** – depois de aprendizados e aperfeiçoamento. um pequeno projeto de animação com os meus amigos de sala
+- 🔹 **Elegrow** – Jogo sobre uma plantação
 
 ---
 
@@ -42,9 +55,10 @@
 
 ## 🌐 Onde me encontrar
 
-- 💼 GitHub: https://github.com/seu-usuario  
-- 💬 LinkedIn: https://linkedin.com/in/seu-link  
-- 📫 Email: seuemail@email.com
+- 💼 GitHub:   
+- 💬 Discord: vt_marchetti 
+- 📫 Email: davilainemarchetti08@gmail.com
+  
 
 ---
 
