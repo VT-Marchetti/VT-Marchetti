@@ -7,6 +7,10 @@
 
 ## 🎨 artes
 
+<p align="center">
+  <img src="" width="600" />
+</p>
+
 ## ☺️ Sobre mim
 Tenho 17 anos e sou um estudante da Escola Profissional de Aveiro do curso de gestão e progrmação de sistemas informáticos (GPSI).
 Também gosto bastante de fazer artes e animações
