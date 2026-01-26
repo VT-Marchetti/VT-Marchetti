@@ -13,7 +13,7 @@
   <img src="assets/Manu.jpg" width="250" />
 </p>
 
-## ☺️ Sobre mim
+☺️ Sobre mim
 Tenho 17 anos e sou um estudante da Escola Profissional de Aveiro do curso de gestão e progrmação de sistemas informáticos (GPSI).
 Também gosto bastante de fazer artes e animações
 
@@ -29,6 +29,7 @@ Também gosto bastante de fazer artes e animações
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
 </p>
+
 ## 📌 Projetos em Destaque
 
 - 🔹 **teste de Animação** – Uso de todos os conhecimentos sobre animação para aprender ainda mais e aperfeiçoar técnicas 
