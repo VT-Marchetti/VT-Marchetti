@@ -13,7 +13,8 @@
   <img src="assets/Manu.jpg" width="250" />
 </p>
 
-<h2 align="left">☺️ Sobre mim</h2>
+## ☺️ Sobre mim
+
 Tenho 17 anos e sou um estudante da Escola Profissional de Aveiro do curso de gestão e progrmação de sistemas informáticos (GPSI).
 Também gosto bastante de fazer artes e animações
 
