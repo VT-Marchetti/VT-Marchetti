@@ -40,7 +40,7 @@ in my journey on the school I made a lot of projects such as **games**, **websit
 </p>
 
 ##
-<h3 align="left">🌐 where to find me?/h3>
+<h3 align="left">🌐 where to find me?</h3>
 
 - 💼 GitHub: https://github.com/VT-Marchetti
 - 💬 Discord: vt_marchetti
