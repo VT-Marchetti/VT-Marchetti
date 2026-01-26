@@ -36,7 +36,7 @@ Também gosto bastante de fazer artes e animações
 - 🔹 **Elegrow** – Jogo sobre uma plantação
 
 ## 🌐 Onde me encontrar
-- 💼 GitHub:
+- 💼 GitHub: https://github.com/VT-Marchetti
 - 💬 Discord: vt_marchetti 
 - 📫 Email: davilainemarchetti08@gmail.com
 
