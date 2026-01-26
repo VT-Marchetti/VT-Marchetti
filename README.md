@@ -1,28 +1,21 @@
 <!-- GitHub Profile README -->
 
 
-<h1 align="center">Eae, me chamo Marchetti 👋</h1>
-<h3 align="center">Estudante | Desenvolvedor | Animador</h3>
-
-<h3 align="left">🎨 artes</h3>
-<p align="center">
-  <img src="assets/Manu and Plush.jpg" width="250" />
-  <img src="assets/VT-Marchetti.jpg" width="250" />
-  <img src="assets/Manu.jpg" width="250" />
-</p>
+<h1 align="center">Heya, I'm Marchetti!</h1>
+<h3 align="center">Student | Developer | Animator</h3>
 
 ##
-<h3 align="left">☺️ Sobre mim</h3>
+<h3 align="left">☺️ About me</h3>
 
-Tenho 17 anos e sou um estudante da Escola Profissional de Aveiro do curso de gestão e progrmação de sistemas informáticos (GPSI).
-Também gosto bastante de fazer artes e animações
+I have 17 years old, I am an student of a professional school in Aveiro called (EPA), and I do the course of **technology and programming**!
+in my journey on the school I made a lot of projects such as **games**, **websites** and **graphic design**.
 
-- 🎓 Estudante do ensino secundário, focado em **gestão e programação de sistemas informáticos**  
-- 🎨 Também curto **design gráfico** e **edição de vídeo**  
-- 🚀 Sempre tentando evoluir um pouco a cada projeto e desafio
+- 🎓 Student of Secondary school, focused on **technology and programming**
+- 🎨 I also like a lot **graphic design** and **Video edition**  
+- 🚀 I am always trying to evolve and improve my skills!
 
 ##
-<h3 align="left">🛠️ Tecnologias & Ferramentas</h3>
+<h3 align="left">🛠️ Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
@@ -32,19 +25,25 @@ Também gosto bastante de fazer artes e animações
 </p>
 
 ##
+<h3 align="left">📌 Projets</h3>
 
-<h3 align="left">📌 Projetos em Destaque</h3>
-
-- 🔹 **teste de Animação** – Uso de todos os conhecimentos sobre animação para aprender ainda mais e aperfeiçoar técnicas 
-- 🔹 **Animação com os amigos** – depois de aprendizados e aperfeiçoamento. um pequeno projeto de animação com os meus amigos de sala
-- 🔹 **Elegrow** – Jogo sobre uma plantação
+- 🔹 **WebSite** – a WebSite made in **Visual Studio Code** using new tool everyday to test its compability (a blank paper test).
+- 🔹 **Animation with my friends** – use all my skills of drawning and animation to make an animation with my friends of my class.
+- 🔹 **Elegrow** – a game about planting and gardening.
 
 ##
+<h3 align="left">🎨 arts</h3>
+<p align="center">
+  <img src="assets/Manu and Plush.jpg" width="200" />
+  <img src="assets/VT-Marchetti.jpg" width="200" />
+  <img src="assets/Manu.jpg" width="200" />
+</p>
 
-<h3 align="left">🌐 Onde me encontrar</h3>
+##
+<h3 align="left">🌐 where to find me?/h3>
 
 - 💼 GitHub: https://github.com/VT-Marchetti
-- 💬 Discord: vt_marchetti 
+- 💬 Discord: vt_marchetti
 - 📫 Email: davilainemarchetti08@gmail.com
 
 <p align="center">⭐⭐⭐</p>
