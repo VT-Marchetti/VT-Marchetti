@@ -20,7 +20,7 @@ in my journey on the school I made a lot of projects such as **games**, **websit
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css2" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css4" />
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/Blender-000?style=for-the-badge&logo=blender" />
   <img src="https://img.shields.io/badge/Krita-000?style=for-the-badge&logo=krita" />
