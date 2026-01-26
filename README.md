@@ -13,6 +13,7 @@
   <img src="assets/Manu.jpg" width="250" />
 </p>
 
+##
 ☺️ Sobre mim
 Tenho 17 anos e sou um estudante da Escola Profissional de Aveiro do curso de gestão e progrmação de sistemas informáticos (GPSI).
 Também gosto bastante de fazer artes e animações
@@ -20,8 +21,8 @@ Também gosto bastante de fazer artes e animações
 - 🎓 Estudante do ensino secundário, focado em **gestão e programação de sistemas informáticos**  
 - 🎨 Também curto **design gráfico** e **edição de vídeo**  
 - 🚀 Sempre tentando evoluir um pouco a cada projeto e desafio
-
-## 🛠️ Tecnologias & Ferramentas
+##
+🛠️ Tecnologias & Ferramentas
 <p>
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
