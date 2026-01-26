@@ -4,8 +4,6 @@
 <h1 align="center">Eae, me chamo Marchetti 👋</h1>
 <h3 align="center">Estudante | Desenvolvedor | Animador</h3>
 
-##
-
 <h3 align="left">🎨 artes</h3>
 <p align="center">
   <img src="assets/Manu and Plush.jpg" width="250" />
@@ -36,6 +34,7 @@ Também gosto bastante de fazer artes e animações
 ##
 
 <h3 align="left">📌 Projetos em Destaque</h3>
+
 - 🔹 **teste de Animação** – Uso de todos os conhecimentos sobre animação para aprender ainda mais e aperfeiçoar técnicas 
 - 🔹 **Animação com os amigos** – depois de aprendizados e aperfeiçoamento. um pequeno projeto de animação com os meus amigos de sala
 - 🔹 **Elegrow** – Jogo sobre uma plantação
