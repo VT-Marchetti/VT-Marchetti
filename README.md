@@ -42,6 +42,7 @@ Também gosto bastante de fazer artes e animações
 ##
 
 <h3 align="left">🌐 Onde me encontrar</h3>
+
 - 💼 GitHub: https://github.com/VT-Marchetti
 - 💬 Discord: vt_marchetti 
 - 📫 Email: davilainemarchetti08@gmail.com
