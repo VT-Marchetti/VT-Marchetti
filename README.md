@@ -40,4 +40,4 @@ Também gosto bastante de fazer artes e animações
 - 💬 Discord: vt_marchetti 
 - 📫 Email: davilainemarchetti08@gmail.com
 
-<p align="center">⭐ Se curtir algum projeto, não esquece de deixar uma estrela!</p>
+<p align="center">⭐!</p>
