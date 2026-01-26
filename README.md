@@ -22,6 +22,8 @@ in my journey on the school I made a lot of projects such as **games**, **websit
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Blender-000?style=for-the-badge&logo=blender" />
+  
 </p>
 
 ##
