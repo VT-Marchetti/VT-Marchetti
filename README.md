@@ -46,14 +46,6 @@ in my journey on the school I made a lot of projects such as **games**, **websit
 - 🔹 **Elegrow** – a game about planting and gardening.
 
 ##
-<h3 align="left">🎨 arts</h3>
-<p align="center">
-  <img src="assets/Manu and Plush.jpg" width="200" />
-  <img src="assets/VT-Marchetti.jpg" width="200" />
-  <img src="assets/Manu.jpg" width="200" />
-</p>
-
-##
 <h3 align="left">🌐 where to find me?</h3>
 
 - 💼 GitHub: https://github.com/VT-Marchetti
