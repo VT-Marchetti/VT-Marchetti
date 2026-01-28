@@ -54,5 +54,6 @@ in my journey on the school I made a lot of projects such as **games**, **websit
 
 ##
   ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vt-marchetti&show_icons=true&theme=dark)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=vt-marchetti&show_icons=true&theme=tokyonight)
 
 <p align="center">⭐⭐⭐⭐⭐</p>
