@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<p align="center">⭐⭐⭐</p>
+<p align="center">⭐⭐⭐⭐⭐</p>
 
 
 <h1 align="center">Heya, I'm Marchetti!</h1>
@@ -60,4 +60,4 @@ in my journey on the school I made a lot of projects such as **games**, **websit
 - 💬 Discord: vt_marchetti
 - 📫 Email: davilainemarchetti08@gmail.com
 
-<p align="center">⭐⭐⭐</p>
+<p align="center">⭐⭐⭐⭐⭐</p>
