@@ -53,7 +53,10 @@ in my journey on the school I made a lot of projects such as **games**, **websit
 - 📫 Email: davilainemarchetti08@gmail.com
 
 ##
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vt-marchetti&show_icons=true&theme=dark)
   ![Stats](https://github-readme-stats.vercel.app/api?username=vt-marchetti&show_icons=true&theme=tokyonight)
+  ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark)
+  ![GitHub followers](https://img.shields.io/github/followers/SEU_USUARIO?style=social)
+![GitHub stars](https://img.shields.io/github/stars/SEU_USUARIO?style=social)
 
 <p align="center">⭐⭐⭐⭐⭐</p>
