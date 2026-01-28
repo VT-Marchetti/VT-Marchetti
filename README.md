@@ -25,7 +25,7 @@ in my journey on the school I made a lot of projects such as **games**, **websit
   <img src="https://img.shields.io/badge/Blender-000?style=for-the-badge&logo=blender" />
   <img src="https://img.shields.io/badge/Krita-000?style=for-the-badge&logo=krita" />
   <img src="https://img.shields.io/badge/GameMaker-000?style=for-the-badge&logo=gamemaker" />
-  
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
   
 </p>
 
