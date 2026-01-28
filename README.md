@@ -36,6 +36,7 @@ in my journey on the school I made a lot of projects such as **games**, **websit
 <h3 align="left">📖 I want to learn</h3>
 <p>
   <img src="https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua" />
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" />
 
 ##
 <h3 align="left">📌 Projets</h3>
