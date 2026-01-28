@@ -1,11 +1,13 @@
 <!-- GitHub Profile README -->
 
+<p align="center">⭐⭐⭐</p>
+
 
 <h1 align="center">Heya, I'm Marchetti!</h1>
 <h3 align="center">Student | Developer | Animator</h3>
 
 ##
-<h3 align="left">☺️ About me</h3>
+<h3 align="left">😎 About me</h3>
 
 I have 17 years old, I am an student of a professional school in Aveiro called (EPA), and I do the course of **technology and programming**!
 in my journey on the school I made a lot of projects such as **games**, **websites** and **graphic design**.
