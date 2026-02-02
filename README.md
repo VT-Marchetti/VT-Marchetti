@@ -53,6 +53,5 @@ in my journey on the school I made a lot of projects such as **games**, **websit
 - 📫 Email: davilainemarchetti08@gmail.com
 
 ##
-  <img src="https://github-readme-stats.vercel.app/api?username=vt-marchetti&show_icons=true&theme=tokyonight" />
 
 <p align="center">⭐⭐⭐⭐⭐</p>
