@@ -42,7 +42,7 @@ in my journey on the school I made a lot of projects such as **games**, **websit
 <h3 align="left">📌 Projets</h3>
 
 - 🔹 **WebSite** – a WebSite made in **Visual Studio Code** using new tool everyday to test its compability (a blank paper test).
-- 🔹 **Animation with my friends** – use all my skills of drawning and animation to make an animation with my friends of my class.
+- 🔹 **Animation** – use all my skills of drawning and animation to make an animation with my friends of my class.
 - 🔹 **Elegrow** – a game about planting and gardening.
 
 <p align="center">⭐ ⭐ ⭐ ⭐ ⭐</p>
