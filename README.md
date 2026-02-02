@@ -45,11 +45,4 @@ in my journey on the school I made a lot of projects such as **games**, **websit
 - 🔹 **Animation with my friends** – use all my skills of drawning and animation to make an animation with my friends of my class.
 - 🔹 **Elegrow** – a game about planting and gardening.
 
-##
-<h3 align="left">🌐 where to find me?</h3>
-
-- 💼 GitHub: https://github.com/VT-Marchetti
-- 💬 Discord: vt_marchetti
-- 📫 Email: davilainemarchetti08@gmail.com
-
 <p align="center">⭐ ⭐ ⭐ ⭐ ⭐</p>
