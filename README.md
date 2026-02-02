@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Heya, I'm Marchetti!</h1>
-<h3 align="center">Student | Developer | Animator</h3>
+<h3 align="center">Student | Developer | Designer |Animator</h3>
 
 <h3 align="left">😎 About me</h3>
 
