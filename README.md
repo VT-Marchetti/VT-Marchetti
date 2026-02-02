@@ -6,7 +6,6 @@
 <h1 align="center">Heya, I'm Marchetti!</h1>
 <h3 align="center">Student | Developer | Animator</h3>
 
-##
 <h3 align="left">😎 About me</h3>
 
 I have 17 years old, but even beeing a little young I still am good on what I do beeing a good option for you to hire me, I am an student of a professional school in Aveiro called (EPA), and I do the course of **technology and programming**!
